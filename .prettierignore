@@ -46,3 +46,7 @@ const/
 /conun-db
 
 /private
+
+
+#ignore all handlebars files
+*.hbs
